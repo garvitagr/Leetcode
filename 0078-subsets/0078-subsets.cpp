@@ -5,11 +5,8 @@ public:
             ans.push_back(temp);
             return;
         }
-        // number pick karte hai
-        temp.push_back(nums[i]);
         f(temp,ans,i+1,nums);
-        // number skip karte hai
-        temp.pop_back();
+        temp.push_back(nums[i]);
         f(temp,ans,i+1,nums);
     }
 
