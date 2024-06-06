@@ -5,13 +5,13 @@ public:
         map<int,int>mp;
         int i;
         for(int i=0;i<hand.size();i++)mp[hand[i]]++;
-
-        for(auto [hand,freq]:mp){
-            while(freq--){
-                for(i=hand;i<hand+groupSize;i++){
-                    if(mp[i]==0)return false;
-                    mp[i]--;
-                }
+        while(mp.size()){
+            auto it=mp.begin();
+            int num=it->first;
+            for(int i=num;i<num+groupSize;i++){
+                if(mp[i]==0)return false;
+                mp[i]--;
+                if(mp[i]==0)mp.erase(i);
             }
         }
         return true;
