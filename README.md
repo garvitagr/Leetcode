@@ -23,6 +23,7 @@
 # Array
 |  |
 | ------- |
+| [0523-continuous-subarray-sum](https://github.com/garvitagr/Leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0648-replace-words](https://github.com/garvitagr/Leetcode/tree/master/0648-replace-words) |
 | [0659-split-array-into-consecutive-subsequences](https://github.com/garvitagr/Leetcode/tree/master/0659-split-array-into-consecutive-subsequences) |
 | [0876-hand-of-straights](https://github.com/garvitagr/Leetcode/tree/master/0876-hand-of-straights) |
@@ -31,6 +32,7 @@
 # Hash Table
 |  |
 | ------- |
+| [0523-continuous-subarray-sum](https://github.com/garvitagr/Leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0648-replace-words](https://github.com/garvitagr/Leetcode/tree/master/0648-replace-words) |
 | [0659-split-array-into-consecutive-subsequences](https://github.com/garvitagr/Leetcode/tree/master/0659-split-array-into-consecutive-subsequences) |
 | [0876-hand-of-straights](https://github.com/garvitagr/Leetcode/tree/master/0876-hand-of-straights) |
@@ -49,3 +51,11 @@
 |  |
 | ------- |
 | [0659-split-array-into-consecutive-subsequences](https://github.com/garvitagr/Leetcode/tree/master/0659-split-array-into-consecutive-subsequences) |
+# Math
+|  |
+| ------- |
+| [0523-continuous-subarray-sum](https://github.com/garvitagr/Leetcode/tree/master/0523-continuous-subarray-sum) |
+# Prefix Sum
+|  |
+| ------- |
+| [0523-continuous-subarray-sum](https://github.com/garvitagr/Leetcode/tree/master/0523-continuous-subarray-sum) |
