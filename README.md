@@ -32,6 +32,7 @@
 | [1137-height-checker](https://github.com/garvitagr/Leetcode/tree/master/1137-height-checker) |
 | [1217-relative-sort-array](https://github.com/garvitagr/Leetcode/tree/master/1217-relative-sort-array) |
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/garvitagr/Leetcode/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
+| [3452-find-the-maximum-length-of-a-good-subsequence-ii](https://github.com/garvitagr/Leetcode/tree/master/3452-find-the-maximum-length-of-a-good-subsequence-ii) |
 # Hash Table
 |  |
 | ------- |
@@ -43,6 +44,7 @@
 | [1044-find-common-characters](https://github.com/garvitagr/Leetcode/tree/master/1044-find-common-characters) |
 | [1217-relative-sort-array](https://github.com/garvitagr/Leetcode/tree/master/1217-relative-sort-array) |
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/garvitagr/Leetcode/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
+| [3452-find-the-maximum-length-of-a-good-subsequence-ii](https://github.com/garvitagr/Leetcode/tree/master/3452-find-the-maximum-length-of-a-good-subsequence-ii) |
 # Sorting
 |  |
 | ------- |
@@ -72,3 +74,7 @@
 | ------- |
 | [1137-height-checker](https://github.com/garvitagr/Leetcode/tree/master/1137-height-checker) |
 | [1217-relative-sort-array](https://github.com/garvitagr/Leetcode/tree/master/1217-relative-sort-array) |
+# Dynamic Programming
+|  |
+| ------- |
+| [3452-find-the-maximum-length-of-a-good-subsequence-ii](https://github.com/garvitagr/Leetcode/tree/master/3452-find-the-maximum-length-of-a-good-subsequence-ii) |
