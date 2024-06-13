@@ -76,6 +76,7 @@
 | ------- |
 | [0523-continuous-subarray-sum](https://github.com/garvitagr/Leetcode/tree/master/0523-continuous-subarray-sum) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/garvitagr/Leetcode/tree/master/1016-subarray-sums-divisible-by-k) |
+| [3271-count-the-number-of-houses-at-a-certain-distance-i](https://github.com/garvitagr/Leetcode/tree/master/3271-count-the-number-of-houses-at-a-certain-distance-i) |
 # Counting Sort
 |  |
 | ------- |
@@ -90,3 +91,11 @@
 |  |
 | ------- |
 | [3443-maximum-total-reward-using-operations-ii](https://github.com/garvitagr/Leetcode/tree/master/3443-maximum-total-reward-using-operations-ii) |
+# Breadth-First Search
+|  |
+| ------- |
+| [3271-count-the-number-of-houses-at-a-certain-distance-i](https://github.com/garvitagr/Leetcode/tree/master/3271-count-the-number-of-houses-at-a-certain-distance-i) |
+# Graph
+|  |
+| ------- |
+| [3271-count-the-number-of-houses-at-a-certain-distance-i](https://github.com/garvitagr/Leetcode/tree/master/3271-count-the-number-of-houses-at-a-certain-distance-i) |
