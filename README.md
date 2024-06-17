@@ -6,6 +6,7 @@
 | ------- |
 | [0075-sort-colors](https://github.com/garvitagr/Leetcode/tree/master/0075-sort-colors) |
 | [0344-reverse-string](https://github.com/garvitagr/Leetcode/tree/master/0344-reverse-string) |
+| [0633-sum-of-square-numbers](https://github.com/garvitagr/Leetcode/tree/master/0633-sum-of-square-numbers) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/garvitagr/Leetcode/tree/master/2572-append-characters-to-string-to-make-subsequence) |
 # String
 |  |
@@ -80,6 +81,7 @@
 |  |
 | ------- |
 | [0523-continuous-subarray-sum](https://github.com/garvitagr/Leetcode/tree/master/0523-continuous-subarray-sum) |
+| [0633-sum-of-square-numbers](https://github.com/garvitagr/Leetcode/tree/master/0633-sum-of-square-numbers) |
 # Prefix Sum
 |  |
 | ------- |
@@ -109,3 +111,7 @@
 |  |
 | ------- |
 | [3271-count-the-number-of-houses-at-a-certain-distance-i](https://github.com/garvitagr/Leetcode/tree/master/3271-count-the-number-of-houses-at-a-certain-distance-i) |
+# Binary Search
+|  |
+| ------- |
+| [0633-sum-of-square-numbers](https://github.com/garvitagr/Leetcode/tree/master/0633-sum-of-square-numbers) |
