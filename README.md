@@ -43,6 +43,7 @@
 | [1217-relative-sort-array](https://github.com/garvitagr/Leetcode/tree/master/1217-relative-sort-array) |
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/garvitagr/Leetcode/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/garvitagr/Leetcode/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
+| [1675-magnetic-force-between-two-balls](https://github.com/garvitagr/Leetcode/tree/master/1675-magnetic-force-between-two-balls) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/garvitagr/Leetcode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [3443-maximum-total-reward-using-operations-ii](https://github.com/garvitagr/Leetcode/tree/master/3443-maximum-total-reward-using-operations-ii) |
 | [3452-find-the-maximum-length-of-a-good-subsequence-ii](https://github.com/garvitagr/Leetcode/tree/master/3452-find-the-maximum-length-of-a-good-subsequence-ii) |
@@ -68,6 +69,7 @@
 | [1137-height-checker](https://github.com/garvitagr/Leetcode/tree/master/1137-height-checker) |
 | [1217-relative-sort-array](https://github.com/garvitagr/Leetcode/tree/master/1217-relative-sort-array) |
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/garvitagr/Leetcode/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
+| [1675-magnetic-force-between-two-balls](https://github.com/garvitagr/Leetcode/tree/master/1675-magnetic-force-between-two-balls) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/garvitagr/Leetcode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 # Trie
 |  |
@@ -117,3 +119,4 @@
 | ------- |
 | [0633-sum-of-square-numbers](https://github.com/garvitagr/Leetcode/tree/master/0633-sum-of-square-numbers) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/garvitagr/Leetcode/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
+| [1675-magnetic-force-between-two-balls](https://github.com/garvitagr/Leetcode/tree/master/1675-magnetic-force-between-two-balls) |
