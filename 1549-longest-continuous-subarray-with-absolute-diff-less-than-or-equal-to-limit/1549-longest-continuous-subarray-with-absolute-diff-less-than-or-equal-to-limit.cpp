@@ -18,7 +18,6 @@ public:
                     st.insert(nums[j++]);
                     int ele=st.size();
                     ans=max(ans,ele);
-                    if(ans==7)cout<<smallest<<" "<<largest<<endl;
                 }
                 else break;
             }
