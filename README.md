@@ -119,6 +119,7 @@
 # Graph
 |  |
 | ------- |
+| [1916-find-center-of-star-graph](https://github.com/garvitagr/Leetcode/tree/master/1916-find-center-of-star-graph) |
 | [3271-count-the-number-of-houses-at-a-certain-distance-i](https://github.com/garvitagr/Leetcode/tree/master/3271-count-the-number-of-houses-at-a-certain-distance-i) |
 # Binary Search
 |  |
