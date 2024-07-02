@@ -170,6 +170,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/garvitagr/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1087-longest-arithmetic-subsequence](https://github.com/garvitagr/Leetcode/tree/master/1087-longest-arithmetic-subsequence) |
 | [1293-three-consecutive-odds](https://github.com/garvitagr/Leetcode/tree/master/1293-three-consecutive-odds) |
+| [3438-peaks-in-array](https://github.com/garvitagr/Leetcode/tree/master/3438-peaks-in-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -188,4 +189,12 @@
 |  |
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/garvitagr/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [3438-peaks-in-array](https://github.com/garvitagr/Leetcode/tree/master/3438-peaks-in-array) |
+## Segment Tree
+|  |
+| ------- |
+| [3438-peaks-in-array](https://github.com/garvitagr/Leetcode/tree/master/3438-peaks-in-array) |
 <!---LeetCode Topics End-->
