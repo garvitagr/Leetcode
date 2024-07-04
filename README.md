@@ -200,4 +200,12 @@
 |  |
 | ------- |
 | [3438-peaks-in-array](https://github.com/garvitagr/Leetcode/tree/master/3438-peaks-in-array) |
+## Linked List
+|  |
+| ------- |
+| [2299-merge-nodes-in-between-zeros](https://github.com/garvitagr/Leetcode/tree/master/2299-merge-nodes-in-between-zeros) |
+## Simulation
+|  |
+| ------- |
+| [2299-merge-nodes-in-between-zeros](https://github.com/garvitagr/Leetcode/tree/master/2299-merge-nodes-in-between-zeros) |
 <!---LeetCode Topics End-->
