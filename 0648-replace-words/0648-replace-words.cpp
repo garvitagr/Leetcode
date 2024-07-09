@@ -1,77 +1,60 @@
 class TrieNode{
-    public:
+public:
     char value;
     TrieNode* children[26];
     bool isTerminal;
-    int index;
-    int size;
-    
 
-    TrieNode(char val){
-      this->value=val;
-      for(int i=0;i<26;i++){
-        children[i]=NULL;
-      }
-      this->isTerminal=false;
-      this->index=-1;
-      this->size=0;
+    TrieNode(char ch){
+        this->value=ch;
+        for(int i=0;i<26;i++)this->children[i]=NULL;
+        this->isTerminal=false;
     }
 };
 
-void insertWord(TrieNode* root,string &word,int ind, int itr,int size){
-  if(word.size()==itr){
+void insertWord(TrieNode* root,string word){
+    int i,n=word.size();
+    for(i=0;i<n;i++){
+        int index=word[i]-'a';
+        if(root->children[index]==nullptr)root->children[index]=new TrieNode(word[i]);
+        root=root->children[index];
+    }
     root->isTerminal=true;
-    root->index=ind;
-    root->size=size;
-    return;
-  }
+}
 
-  char ch=word[itr];
-  int index=ch-'a';
-  if(root->children[index] ==NULL){
-    root->children[index]=new TrieNode(ch);
-  }
-  size++;
-  insertWord(root->children[index],word,ind, itr+1,size);
+string findprefix(TrieNode* root,string word){
+    int i,n=word.size();
+    for(i=0;i<word.size();i++){
+        int index=word[i]-'a';
+        if(root->children[index]==nullptr)return word;
+        root=root->children[index];
+        if(root->isTerminal)return word.substr(0,i+1);
+    }
+    return word;
 }
-bool search(TrieNode* root,string &word,int itr){
-   if(word.size()==itr){
-      return root->isTerminal;
-   }
-   char ch=word[itr];
-   int index=ch-'a';
-   if(root->children[index]==NULL)return false;
-   return search(root->children[index],word,itr+1);
-}
+
 
 class Solution {
 public:
     string replaceWords(vector<string>& dictionary, string sentence) {
-        int i,j;
         TrieNode* root=new TrieNode('-');
-        for(i=0;i<dictionary.size();i++){
-            insertWord(root,dictionary[i],i,0,0);
+        for(int i=0;i<dictionary.size();i++){
+            insertWord(root,dictionary[i]);
         }
-
-        vector<string>words;
-        string s="",ans="";
-        for(i=0;i<sentence.size();i++){
-            if(sentence[i]>='a' and sentence[i]<='z')s+=sentence[i];
-            else words.push_back(s),s="";
-        }
-        words.push_back(s);
-        for(i=0;i<words.size();i++){
-            s="";
-            for(j=0;j<words[i].size();j++){
-                s+=words[i][j];
-                if(search(root,s,0)){
-                    break;
-                }
+        string word="",ans="";
+        for(int i=0;i<sentence.size();i++){
+            if(sentence[i]==' '){
+                string prefix=findprefix(root,word);
+                ans+=prefix+" ";
+                word="";
+                continue;
             }
-            ans+=s;
-            ans+=" ";
+            word+=sentence[i];
+            if(i==sentence.size()-1){
+                string prefix=findprefix(root,word);
+                ans+=prefix;
+                word="";
+            }
         }
-        ans.pop_back();
         return ans;
     }
 };
