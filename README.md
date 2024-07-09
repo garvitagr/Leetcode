@@ -180,6 +180,7 @@
 |  |
 | ------- |
 | [0140-word-break-ii](https://github.com/garvitagr/Leetcode/tree/master/0140-word-break-ii) |
+| [0208-implement-trie-prefix-tree](https://github.com/garvitagr/Leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/garvitagr/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1087-longest-arithmetic-subsequence](https://github.com/garvitagr/Leetcode/tree/master/1087-longest-arithmetic-subsequence) |
 ## Binary Search
@@ -233,6 +234,7 @@
 |  |
 | ------- |
 | [0140-word-break-ii](https://github.com/garvitagr/Leetcode/tree/master/0140-word-break-ii) |
+| [0208-implement-trie-prefix-tree](https://github.com/garvitagr/Leetcode/tree/master/0208-implement-trie-prefix-tree) |
 ## Backtracking
 |  |
 | ------- |
@@ -241,8 +243,13 @@
 |  |
 | ------- |
 | [0140-word-break-ii](https://github.com/garvitagr/Leetcode/tree/master/0140-word-break-ii) |
+| [0208-implement-trie-prefix-tree](https://github.com/garvitagr/Leetcode/tree/master/0208-implement-trie-prefix-tree) |
 ## Memoization
 |  |
 | ------- |
 | [0140-word-break-ii](https://github.com/garvitagr/Leetcode/tree/master/0140-word-break-ii) |
+## Design
+|  |
+| ------- |
+| [0208-implement-trie-prefix-tree](https://github.com/garvitagr/Leetcode/tree/master/0208-implement-trie-prefix-tree) |
 <!---LeetCode Topics End-->
