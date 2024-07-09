@@ -169,6 +169,7 @@
 ## Array
 |  |
 | ------- |
+| [0139-word-break](https://github.com/garvitagr/Leetcode/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/garvitagr/Leetcode/tree/master/0140-word-break-ii) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/garvitagr/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0648-replace-words](https://github.com/garvitagr/Leetcode/tree/master/0648-replace-words) |
@@ -180,6 +181,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0139-word-break](https://github.com/garvitagr/Leetcode/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/garvitagr/Leetcode/tree/master/0140-word-break-ii) |
 | [0208-implement-trie-prefix-tree](https://github.com/garvitagr/Leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/garvitagr/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -193,6 +195,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0139-word-break](https://github.com/garvitagr/Leetcode/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/garvitagr/Leetcode/tree/master/0140-word-break-ii) |
 | [1087-longest-arithmetic-subsequence](https://github.com/garvitagr/Leetcode/tree/master/1087-longest-arithmetic-subsequence) |
 ## Two Pointers
@@ -235,6 +238,7 @@
 ## String
 |  |
 | ------- |
+| [0139-word-break](https://github.com/garvitagr/Leetcode/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/garvitagr/Leetcode/tree/master/0140-word-break-ii) |
 | [0208-implement-trie-prefix-tree](https://github.com/garvitagr/Leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0648-replace-words](https://github.com/garvitagr/Leetcode/tree/master/0648-replace-words) |
@@ -245,12 +249,14 @@
 ## Trie
 |  |
 | ------- |
+| [0139-word-break](https://github.com/garvitagr/Leetcode/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/garvitagr/Leetcode/tree/master/0140-word-break-ii) |
 | [0208-implement-trie-prefix-tree](https://github.com/garvitagr/Leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0648-replace-words](https://github.com/garvitagr/Leetcode/tree/master/0648-replace-words) |
 ## Memoization
 |  |
 | ------- |
+| [0139-word-break](https://github.com/garvitagr/Leetcode/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/garvitagr/Leetcode/tree/master/0140-word-break-ii) |
 ## Design
 |  |
