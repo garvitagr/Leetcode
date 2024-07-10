@@ -74,7 +74,6 @@ public:
         for(i=0;i<n;i++){
             insertWord(root,words[i],i);
         }
-        cout<<root->index;
 
         for(i=0;i<n;i++){
             vector<int>temp;
