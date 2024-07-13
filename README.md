@@ -176,6 +176,7 @@
 | [0336-palindrome-pairs](https://github.com/garvitagr/Leetcode/tree/master/0336-palindrome-pairs) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/garvitagr/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0648-replace-words](https://github.com/garvitagr/Leetcode/tree/master/0648-replace-words) |
+| [0735-asteroid-collision](https://github.com/garvitagr/Leetcode/tree/master/0735-asteroid-collision) |
 | [0753-open-the-lock](https://github.com/garvitagr/Leetcode/tree/master/0753-open-the-lock) |
 | [1087-longest-arithmetic-subsequence](https://github.com/garvitagr/Leetcode/tree/master/1087-longest-arithmetic-subsequence) |
 | [1145-number-of-submatrices-that-sum-to-target](https://github.com/garvitagr/Leetcode/tree/master/1145-number-of-submatrices-that-sum-to-target) |
@@ -238,6 +239,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0735-asteroid-collision](https://github.com/garvitagr/Leetcode/tree/master/0735-asteroid-collision) |
 | [1642-water-bottles](https://github.com/garvitagr/Leetcode/tree/master/1642-water-bottles) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/garvitagr/Leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/garvitagr/Leetcode/tree/master/2299-merge-nodes-in-between-zeros) |
@@ -301,6 +303,7 @@
 ## Stack
 |  |
 | ------- |
+| [0735-asteroid-collision](https://github.com/garvitagr/Leetcode/tree/master/0735-asteroid-collision) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/garvitagr/Leetcode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1720-crawler-log-folder](https://github.com/garvitagr/Leetcode/tree/master/1720-crawler-log-folder) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/garvitagr/Leetcode/tree/master/1818-maximum-score-from-removing-substrings) |
