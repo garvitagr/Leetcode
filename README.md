@@ -156,6 +156,7 @@
 ## Graph
 |  |
 | ------- |
+| [0310-minimum-height-trees](https://github.com/garvitagr/Leetcode/tree/master/0310-minimum-height-trees) |
 | [2379-maximum-total-importance-of-roads](https://github.com/garvitagr/Leetcode/tree/master/2379-maximum-total-importance-of-roads) |
 ## Sorting
 |  |
@@ -328,5 +329,14 @@
 ## Breadth-First Search
 |  |
 | ------- |
+| [0310-minimum-height-trees](https://github.com/garvitagr/Leetcode/tree/master/0310-minimum-height-trees) |
 | [0753-open-the-lock](https://github.com/garvitagr/Leetcode/tree/master/0753-open-the-lock) |
+## Depth-First Search
+|  |
+| ------- |
+| [0310-minimum-height-trees](https://github.com/garvitagr/Leetcode/tree/master/0310-minimum-height-trees) |
+## Topological Sort
+|  |
+| ------- |
+| [0310-minimum-height-trees](https://github.com/garvitagr/Leetcode/tree/master/0310-minimum-height-trees) |
 <!---LeetCode Topics End-->
