@@ -2,9 +2,7 @@ class Solution {
 public:
     vector<int> survivedRobotsHealths(vector<int>& positions, vector<int>& healths, string direction) {
         stack<pair<char,pair<int,int>>>st;  //{dir,{health,pos number}};
-        vector<pair<int,pair<int,char>>>v;
-        vector<int>alterposition=positions;
-        sort(alterposition.begin(),alterposition.end());
+        vector<pair<int,pair<int,char>>>v;  //{pos number,{health,dir}};
         for(int i=0;i<positions.size();i++){
             v.push_back({positions[i],{healths[i],direction[i]}});
         }
@@ -40,7 +38,6 @@ public:
         }
 
         vector<int>result;
-        cout<<st.size()<<endl;
         while(!st.empty()){
             mp.insert({st.top().second.second,st.top().second.first});
             st.pop();
