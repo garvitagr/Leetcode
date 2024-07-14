@@ -164,6 +164,7 @@
 |  |
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/garvitagr/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [1019-squares-of-a-sorted-array](https://github.com/garvitagr/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/garvitagr/Leetcode/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [2379-maximum-total-importance-of-roads](https://github.com/garvitagr/Leetcode/tree/master/2379-maximum-total-importance-of-roads) |
 | [2846-robot-collisions](https://github.com/garvitagr/Leetcode/tree/master/2846-robot-collisions) |
@@ -182,6 +183,7 @@
 | [0648-replace-words](https://github.com/garvitagr/Leetcode/tree/master/0648-replace-words) |
 | [0735-asteroid-collision](https://github.com/garvitagr/Leetcode/tree/master/0735-asteroid-collision) |
 | [0753-open-the-lock](https://github.com/garvitagr/Leetcode/tree/master/0753-open-the-lock) |
+| [1019-squares-of-a-sorted-array](https://github.com/garvitagr/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1062-partition-array-into-three-parts-with-equal-sum](https://github.com/garvitagr/Leetcode/tree/master/1062-partition-array-into-three-parts-with-equal-sum) |
 | [1087-longest-arithmetic-subsequence](https://github.com/garvitagr/Leetcode/tree/master/1087-longest-arithmetic-subsequence) |
 | [1145-number-of-submatrices-that-sum-to-target](https://github.com/garvitagr/Leetcode/tree/master/1145-number-of-submatrices-that-sum-to-target) |
@@ -229,6 +231,7 @@
 | ------- |
 | [0283-move-zeroes](https://github.com/garvitagr/Leetcode/tree/master/0283-move-zeroes) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/garvitagr/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [1019-squares-of-a-sorted-array](https://github.com/garvitagr/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
 ## Binary Indexed Tree
 |  |
 | ------- |
