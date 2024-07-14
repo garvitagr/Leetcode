@@ -176,6 +176,7 @@
 | ------- |
 | [0139-word-break](https://github.com/garvitagr/Leetcode/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/garvitagr/Leetcode/tree/master/0140-word-break-ii) |
+| [0283-move-zeroes](https://github.com/garvitagr/Leetcode/tree/master/0283-move-zeroes) |
 | [0336-palindrome-pairs](https://github.com/garvitagr/Leetcode/tree/master/0336-palindrome-pairs) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/garvitagr/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0648-replace-words](https://github.com/garvitagr/Leetcode/tree/master/0648-replace-words) |
@@ -226,6 +227,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0283-move-zeroes](https://github.com/garvitagr/Leetcode/tree/master/0283-move-zeroes) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/garvitagr/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Binary Indexed Tree
 |  |
