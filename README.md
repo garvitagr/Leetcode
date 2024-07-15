@@ -158,6 +158,7 @@
 |  |
 | ------- |
 | [0310-minimum-height-trees](https://github.com/garvitagr/Leetcode/tree/master/0310-minimum-height-trees) |
+| [1701-remove-max-number-of-edges-to-keep-graph-fully-traversable](https://github.com/garvitagr/Leetcode/tree/master/1701-remove-max-number-of-edges-to-keep-graph-fully-traversable) |
 | [1706-min-cost-to-connect-all-points](https://github.com/garvitagr/Leetcode/tree/master/1706-min-cost-to-connect-all-points) |
 | [2379-maximum-total-importance-of-roads](https://github.com/garvitagr/Leetcode/tree/master/2379-maximum-total-importance-of-roads) |
 ## Sorting
@@ -370,6 +371,7 @@
 ## Union Find
 |  |
 | ------- |
+| [1701-remove-max-number-of-edges-to-keep-graph-fully-traversable](https://github.com/garvitagr/Leetcode/tree/master/1701-remove-max-number-of-edges-to-keep-graph-fully-traversable) |
 | [1706-min-cost-to-connect-all-points](https://github.com/garvitagr/Leetcode/tree/master/1706-min-cost-to-connect-all-points) |
 ## Minimum Spanning Tree
 |  |
