@@ -158,6 +158,7 @@
 |  |
 | ------- |
 | [0310-minimum-height-trees](https://github.com/garvitagr/Leetcode/tree/master/0310-minimum-height-trees) |
+| [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/garvitagr/Leetcode/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [1701-remove-max-number-of-edges-to-keep-graph-fully-traversable](https://github.com/garvitagr/Leetcode/tree/master/1701-remove-max-number-of-edges-to-keep-graph-fully-traversable) |
 | [1706-min-cost-to-connect-all-points](https://github.com/garvitagr/Leetcode/tree/master/1706-min-cost-to-connect-all-points) |
 | [2379-maximum-total-importance-of-roads](https://github.com/garvitagr/Leetcode/tree/master/2379-maximum-total-importance-of-roads) |
@@ -363,6 +364,7 @@
 | [0310-minimum-height-trees](https://github.com/garvitagr/Leetcode/tree/master/0310-minimum-height-trees) |
 | [0721-accounts-merge](https://github.com/garvitagr/Leetcode/tree/master/0721-accounts-merge) |
 | [0753-open-the-lock](https://github.com/garvitagr/Leetcode/tree/master/0753-open-the-lock) |
+| [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/garvitagr/Leetcode/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -370,10 +372,12 @@
 | [0538-convert-bst-to-greater-tree](https://github.com/garvitagr/Leetcode/tree/master/0538-convert-bst-to-greater-tree) |
 | [0721-accounts-merge](https://github.com/garvitagr/Leetcode/tree/master/0721-accounts-merge) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/garvitagr/Leetcode/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
+| [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/garvitagr/Leetcode/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 ## Topological Sort
 |  |
 | ------- |
 | [0310-minimum-height-trees](https://github.com/garvitagr/Leetcode/tree/master/0310-minimum-height-trees) |
+| [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/garvitagr/Leetcode/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 ## Union Find
 |  |
 | ------- |
