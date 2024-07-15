@@ -177,6 +177,7 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/garvitagr/Leetcode/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/garvitagr/Leetcode/tree/master/0015-3sum) |
 | [0139-word-break](https://github.com/garvitagr/Leetcode/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/garvitagr/Leetcode/tree/master/0140-word-break-ii) |
@@ -207,6 +208,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/garvitagr/Leetcode/tree/master/0001-two-sum) |
 | [0139-word-break](https://github.com/garvitagr/Leetcode/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/garvitagr/Leetcode/tree/master/0140-word-break-ii) |
 | [0208-implement-trie-prefix-tree](https://github.com/garvitagr/Leetcode/tree/master/0208-implement-trie-prefix-tree) |
