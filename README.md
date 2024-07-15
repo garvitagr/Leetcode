@@ -359,6 +359,7 @@
 |  |
 | ------- |
 | [0310-minimum-height-trees](https://github.com/garvitagr/Leetcode/tree/master/0310-minimum-height-trees) |
+| [1114-binary-search-tree-to-greater-sum-tree](https://github.com/garvitagr/Leetcode/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 ## Topological Sort
 |  |
 | ------- |
@@ -378,13 +379,19 @@
 ## Tree
 |  |
 | ------- |
+| [1114-binary-search-tree-to-greater-sum-tree](https://github.com/garvitagr/Leetcode/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/garvitagr/Leetcode/tree/master/2306-create-binary-tree-from-descriptions) |
 ## Binary Tree
 |  |
 | ------- |
+| [1114-binary-search-tree-to-greater-sum-tree](https://github.com/garvitagr/Leetcode/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/garvitagr/Leetcode/tree/master/2306-create-binary-tree-from-descriptions) |
 ## Divide and Conquer
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/garvitagr/Leetcode/tree/master/0053-maximum-subarray) |
+## Binary Search Tree
+|  |
+| ------- |
+| [1114-binary-search-tree-to-greater-sum-tree](https://github.com/garvitagr/Leetcode/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 <!---LeetCode Topics End-->
