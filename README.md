@@ -359,6 +359,7 @@
 |  |
 | ------- |
 | [0310-minimum-height-trees](https://github.com/garvitagr/Leetcode/tree/master/0310-minimum-height-trees) |
+| [0538-convert-bst-to-greater-tree](https://github.com/garvitagr/Leetcode/tree/master/0538-convert-bst-to-greater-tree) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/garvitagr/Leetcode/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 ## Topological Sort
 |  |
@@ -379,11 +380,13 @@
 ## Tree
 |  |
 | ------- |
+| [0538-convert-bst-to-greater-tree](https://github.com/garvitagr/Leetcode/tree/master/0538-convert-bst-to-greater-tree) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/garvitagr/Leetcode/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/garvitagr/Leetcode/tree/master/2306-create-binary-tree-from-descriptions) |
 ## Binary Tree
 |  |
 | ------- |
+| [0538-convert-bst-to-greater-tree](https://github.com/garvitagr/Leetcode/tree/master/0538-convert-bst-to-greater-tree) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/garvitagr/Leetcode/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/garvitagr/Leetcode/tree/master/2306-create-binary-tree-from-descriptions) |
 ## Divide and Conquer
@@ -393,5 +396,6 @@
 ## Binary Search Tree
 |  |
 | ------- |
+| [0538-convert-bst-to-greater-tree](https://github.com/garvitagr/Leetcode/tree/master/0538-convert-bst-to-greater-tree) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/garvitagr/Leetcode/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 <!---LeetCode Topics End-->
