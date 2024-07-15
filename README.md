@@ -163,6 +163,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/garvitagr/Leetcode/tree/master/0015-3sum) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/garvitagr/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0726-number-of-atoms](https://github.com/garvitagr/Leetcode/tree/master/0726-number-of-atoms) |
 | [1019-squares-of-a-sorted-array](https://github.com/garvitagr/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
@@ -176,6 +177,7 @@
 ## Array
 |  |
 | ------- |
+| [0015-3sum](https://github.com/garvitagr/Leetcode/tree/master/0015-3sum) |
 | [0139-word-break](https://github.com/garvitagr/Leetcode/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/garvitagr/Leetcode/tree/master/0140-word-break-ii) |
 | [0283-move-zeroes](https://github.com/garvitagr/Leetcode/tree/master/0283-move-zeroes) |
@@ -234,6 +236,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/garvitagr/Leetcode/tree/master/0015-3sum) |
 | [0283-move-zeroes](https://github.com/garvitagr/Leetcode/tree/master/0283-move-zeroes) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/garvitagr/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1019-squares-of-a-sorted-array](https://github.com/garvitagr/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
