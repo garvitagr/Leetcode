@@ -304,6 +304,7 @@
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/garvitagr/Leetcode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1720-crawler-log-folder](https://github.com/garvitagr/Leetcode/tree/master/1720-crawler-log-folder) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/garvitagr/Leetcode/tree/master/1818-maximum-score-from-removing-substrings) |
+| [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/garvitagr/Leetcode/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/garvitagr/Leetcode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3482-construct-string-with-minimum-cost](https://github.com/garvitagr/Leetcode/tree/master/3482-construct-string-with-minimum-cost) |
 ## Backtracking
@@ -375,6 +376,7 @@
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/garvitagr/Leetcode/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 | [1285-balance-a-binary-search-tree](https://github.com/garvitagr/Leetcode/tree/master/1285-balance-a-binary-search-tree) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/garvitagr/Leetcode/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
+| [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/garvitagr/Leetcode/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 ## Topological Sort
 |  |
 | ------- |
@@ -400,6 +402,7 @@
 | [0538-convert-bst-to-greater-tree](https://github.com/garvitagr/Leetcode/tree/master/0538-convert-bst-to-greater-tree) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/garvitagr/Leetcode/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 | [1285-balance-a-binary-search-tree](https://github.com/garvitagr/Leetcode/tree/master/1285-balance-a-binary-search-tree) |
+| [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/garvitagr/Leetcode/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/garvitagr/Leetcode/tree/master/2306-create-binary-tree-from-descriptions) |
 ## Binary Tree
 |  |
@@ -407,6 +410,7 @@
 | [0538-convert-bst-to-greater-tree](https://github.com/garvitagr/Leetcode/tree/master/0538-convert-bst-to-greater-tree) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/garvitagr/Leetcode/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 | [1285-balance-a-binary-search-tree](https://github.com/garvitagr/Leetcode/tree/master/1285-balance-a-binary-search-tree) |
+| [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/garvitagr/Leetcode/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/garvitagr/Leetcode/tree/master/2306-create-binary-tree-from-descriptions) |
 ## Divide and Conquer
 |  |
