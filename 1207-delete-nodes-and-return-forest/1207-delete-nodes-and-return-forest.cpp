@@ -19,6 +19,7 @@ public:
         if(st.find(root->val)!=st.end()){
             if(root->left)ans.push_back(root->left);
             if(root->right)ans.push_back(root->right);
+            delete(root);
             return NULL;
         }
         else return root;
