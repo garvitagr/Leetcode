@@ -206,6 +206,7 @@
 | [1706-min-cost-to-connect-all-points](https://github.com/garvitagr/Leetcode/tree/master/1706-min-cost-to-connect-all-points) |
 | [1720-crawler-log-folder](https://github.com/garvitagr/Leetcode/tree/master/1720-crawler-log-folder) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/garvitagr/Leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [2022-maximum-alternating-subsequence-sum](https://github.com/garvitagr/Leetcode/tree/master/2022-maximum-alternating-subsequence-sum) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/garvitagr/Leetcode/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2546-number-of-subarrays-with-gcd-equal-to-k](https://github.com/garvitagr/Leetcode/tree/master/2546-number-of-subarrays-with-gcd-equal-to-k) |
 | [2846-robot-collisions](https://github.com/garvitagr/Leetcode/tree/master/2846-robot-collisions) |
@@ -248,6 +249,7 @@
 | [0139-word-break](https://github.com/garvitagr/Leetcode/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/garvitagr/Leetcode/tree/master/0140-word-break-ii) |
 | [1087-longest-arithmetic-subsequence](https://github.com/garvitagr/Leetcode/tree/master/1087-longest-arithmetic-subsequence) |
+| [2022-maximum-alternating-subsequence-sum](https://github.com/garvitagr/Leetcode/tree/master/2022-maximum-alternating-subsequence-sum) |
 | [2286-minimum-time-to-remove-all-cars-containing-illegal-goods](https://github.com/garvitagr/Leetcode/tree/master/2286-minimum-time-to-remove-all-cars-containing-illegal-goods) |
 | [3406-find-all-possible-stable-binary-arrays-i](https://github.com/garvitagr/Leetcode/tree/master/3406-find-all-possible-stable-binary-arrays-i) |
 | [3460-count-the-number-of-inversions](https://github.com/garvitagr/Leetcode/tree/master/3460-count-the-number-of-inversions) |
