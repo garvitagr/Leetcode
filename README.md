@@ -178,6 +178,7 @@
 |  |
 | ------- |
 | [2379-maximum-total-importance-of-roads](https://github.com/garvitagr/Leetcode/tree/master/2379-maximum-total-importance-of-roads) |
+| [2868-continuous-subarrays](https://github.com/garvitagr/Leetcode/tree/master/2868-continuous-subarrays) |
 ## Array
 |  |
 | ------- |
@@ -212,6 +213,7 @@
 | [2306-create-binary-tree-from-descriptions](https://github.com/garvitagr/Leetcode/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2546-number-of-subarrays-with-gcd-equal-to-k](https://github.com/garvitagr/Leetcode/tree/master/2546-number-of-subarrays-with-gcd-equal-to-k) |
 | [2846-robot-collisions](https://github.com/garvitagr/Leetcode/tree/master/2846-robot-collisions) |
+| [2868-continuous-subarrays](https://github.com/garvitagr/Leetcode/tree/master/2868-continuous-subarrays) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/garvitagr/Leetcode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3436-find-subarray-with-bitwise-or-closest-to-k](https://github.com/garvitagr/Leetcode/tree/master/3436-find-subarray-with-bitwise-or-closest-to-k) |
 | [3438-peaks-in-array](https://github.com/garvitagr/Leetcode/tree/master/3438-peaks-in-array) |
@@ -307,6 +309,7 @@
 | ------- |
 | [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/garvitagr/Leetcode/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/garvitagr/Leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [2868-continuous-subarrays](https://github.com/garvitagr/Leetcode/tree/master/2868-continuous-subarrays) |
 ## String
 |  |
 | ------- |
@@ -422,6 +425,7 @@
 | ------- |
 | [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/garvitagr/Leetcode/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/garvitagr/Leetcode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
+| [2868-continuous-subarrays](https://github.com/garvitagr/Leetcode/tree/master/2868-continuous-subarrays) |
 ## Tree
 |  |
 | ------- |
@@ -462,4 +466,9 @@
 |  |
 | ------- |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/garvitagr/Leetcode/tree/master/0315-count-of-smaller-numbers-after-self) |
+| [2868-continuous-subarrays](https://github.com/garvitagr/Leetcode/tree/master/2868-continuous-subarrays) |
+## Monotonic Queue
+|  |
+| ------- |
+| [2868-continuous-subarrays](https://github.com/garvitagr/Leetcode/tree/master/2868-continuous-subarrays) |
 <!---LeetCode Topics End-->
