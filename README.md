@@ -201,6 +201,7 @@
 | [1145-number-of-submatrices-that-sum-to-target](https://github.com/garvitagr/Leetcode/tree/master/1145-number-of-submatrices-that-sum-to-target) |
 | [1207-delete-nodes-and-return-forest](https://github.com/garvitagr/Leetcode/tree/master/1207-delete-nodes-and-return-forest) |
 | [1293-three-consecutive-odds](https://github.com/garvitagr/Leetcode/tree/master/1293-three-consecutive-odds) |
+| [1496-lucky-numbers-in-a-matrix](https://github.com/garvitagr/Leetcode/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/garvitagr/Leetcode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/garvitagr/Leetcode/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1706-min-cost-to-connect-all-points](https://github.com/garvitagr/Leetcode/tree/master/1706-min-cost-to-connect-all-points) |
@@ -369,6 +370,7 @@
 |  |
 | ------- |
 | [1145-number-of-submatrices-that-sum-to-target](https://github.com/garvitagr/Leetcode/tree/master/1145-number-of-submatrices-that-sum-to-target) |
+| [1496-lucky-numbers-in-a-matrix](https://github.com/garvitagr/Leetcode/tree/master/1496-lucky-numbers-in-a-matrix) |
 ## Prefix Sum
 |  |
 | ------- |
