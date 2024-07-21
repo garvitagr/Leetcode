@@ -10,8 +10,6 @@ public:
         if(need[0]>=0)pos=true;
         else pos=false;
         ans=abs(need[0]);
-        for(auto it:need)cout<<it<<" ";
-        cout<<endl;
 
         for(i=1;i<n;i++){
             if(need[i]>=0 and pos){
