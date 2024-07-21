@@ -188,6 +188,7 @@
 | [0053-maximum-subarray](https://github.com/garvitagr/Leetcode/tree/master/0053-maximum-subarray) |
 | [0139-word-break](https://github.com/garvitagr/Leetcode/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/garvitagr/Leetcode/tree/master/0140-word-break-ii) |
+| [0152-maximum-product-subarray](https://github.com/garvitagr/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0283-move-zeroes](https://github.com/garvitagr/Leetcode/tree/master/0283-move-zeroes) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/garvitagr/Leetcode/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0336-palindrome-pairs](https://github.com/garvitagr/Leetcode/tree/master/0336-palindrome-pairs) |
@@ -258,6 +259,7 @@
 | [0053-maximum-subarray](https://github.com/garvitagr/Leetcode/tree/master/0053-maximum-subarray) |
 | [0139-word-break](https://github.com/garvitagr/Leetcode/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/garvitagr/Leetcode/tree/master/0140-word-break-ii) |
+| [0152-maximum-product-subarray](https://github.com/garvitagr/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0629-k-inverse-pairs-array](https://github.com/garvitagr/Leetcode/tree/master/0629-k-inverse-pairs-array) |
 | [1087-longest-arithmetic-subsequence](https://github.com/garvitagr/Leetcode/tree/master/1087-longest-arithmetic-subsequence) |
 | [1881-closest-subsequence-sum](https://github.com/garvitagr/Leetcode/tree/master/1881-closest-subsequence-sum) |
