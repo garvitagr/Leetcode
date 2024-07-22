@@ -175,6 +175,7 @@
 | [1019-squares-of-a-sorted-array](https://github.com/garvitagr/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/garvitagr/Leetcode/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [2379-maximum-total-importance-of-roads](https://github.com/garvitagr/Leetcode/tree/master/2379-maximum-total-importance-of-roads) |
+| [2502-sort-the-people](https://github.com/garvitagr/Leetcode/tree/master/2502-sort-the-people) |
 | [2846-robot-collisions](https://github.com/garvitagr/Leetcode/tree/master/2846-robot-collisions) |
 ## Heap (Priority Queue)
 |  |
@@ -218,6 +219,7 @@
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/garvitagr/Leetcode/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/garvitagr/Leetcode/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2472-build-a-matrix-with-conditions](https://github.com/garvitagr/Leetcode/tree/master/2472-build-a-matrix-with-conditions) |
+| [2502-sort-the-people](https://github.com/garvitagr/Leetcode/tree/master/2502-sort-the-people) |
 | [2546-number-of-subarrays-with-gcd-equal-to-k](https://github.com/garvitagr/Leetcode/tree/master/2546-number-of-subarrays-with-gcd-equal-to-k) |
 | [2846-robot-collisions](https://github.com/garvitagr/Leetcode/tree/master/2846-robot-collisions) |
 | [2868-continuous-subarrays](https://github.com/garvitagr/Leetcode/tree/master/2868-continuous-subarrays) |
@@ -245,6 +247,7 @@
 | [1145-number-of-submatrices-that-sum-to-target](https://github.com/garvitagr/Leetcode/tree/master/1145-number-of-submatrices-that-sum-to-target) |
 | [1207-delete-nodes-and-return-forest](https://github.com/garvitagr/Leetcode/tree/master/1207-delete-nodes-and-return-forest) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/garvitagr/Leetcode/tree/master/2306-create-binary-tree-from-descriptions) |
+| [2502-sort-the-people](https://github.com/garvitagr/Leetcode/tree/master/2502-sort-the-people) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/garvitagr/Leetcode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 ## Binary Search
 |  |
@@ -339,6 +342,7 @@
 | [1818-maximum-score-from-removing-substrings](https://github.com/garvitagr/Leetcode/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/garvitagr/Leetcode/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2286-minimum-time-to-remove-all-cars-containing-illegal-goods](https://github.com/garvitagr/Leetcode/tree/master/2286-minimum-time-to-remove-all-cars-containing-illegal-goods) |
+| [2502-sort-the-people](https://github.com/garvitagr/Leetcode/tree/master/2502-sort-the-people) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/garvitagr/Leetcode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3482-construct-string-with-minimum-cost](https://github.com/garvitagr/Leetcode/tree/master/3482-construct-string-with-minimum-cost) |
 ## Backtracking
