@@ -29,16 +29,10 @@ public:
             st.erase(pr);
             int node=pr.second;
             int curtime=pr.first;
-            // shortestdist[node]=min(shortestdist[node],curtime);
+   
             int nexttime=find(curtime,time,change);
             visited[node]++;
-            // if(node==n){
-            //     if(curtime<minimum.first){
-            //         minimum.second=minimum.first;
-            //         minimum.first=curtime;
-            //     }
-            //     else if(curtime<minimum.second)minimum.second=curtime;
-            // }
+           
             if(visited[node]==2 and node==n)return dist2[n];
 
             for(auto nbr:adj[node]){
@@ -55,20 +49,6 @@ public:
             }
 
         }
-
-        // while(!st.empty()){
-        
-        //     
-        //     shortestdist[node]=min(shortestdist[node],curtime);
-        //     
-        //     
-        //     if(visited[node]==2 and n==node)break;
-        //     if(visited[node]==2)continue;
-            
-        //     for(auto nbr:adj[node]){
-        //         if(nexttime<shortestdist[nbr])st.insert({nexttime,nbr});
-        //     }
-        // }
         return dist2[n];
     }   
 };
