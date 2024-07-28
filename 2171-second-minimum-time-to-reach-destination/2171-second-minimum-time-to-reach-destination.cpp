@@ -36,7 +36,6 @@ public:
             if(visited[node]==2 and node==n)return dist2[n];
 
             for(auto nbr:adj[node]){
-                if(visited[nbr]==2)continue;
                 if(dist1[nbr]>nexttime){
                     dist2[nbr]=dist1[nbr];
                     dist1[nbr]=nexttime;
