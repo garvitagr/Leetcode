@@ -288,6 +288,7 @@
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/garvitagr/Leetcode/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/garvitagr/Leetcode/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1511-count-number-of-teams](https://github.com/garvitagr/Leetcode/tree/master/1511-count-number-of-teams) |
+| [1756-minimum-deletions-to-make-string-balanced](https://github.com/garvitagr/Leetcode/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [1881-closest-subsequence-sum](https://github.com/garvitagr/Leetcode/tree/master/1881-closest-subsequence-sum) |
 | [2022-maximum-alternating-subsequence-sum](https://github.com/garvitagr/Leetcode/tree/master/2022-maximum-alternating-subsequence-sum) |
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/garvitagr/Leetcode/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
@@ -363,6 +364,7 @@
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/garvitagr/Leetcode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/garvitagr/Leetcode/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1720-crawler-log-folder](https://github.com/garvitagr/Leetcode/tree/master/1720-crawler-log-folder) |
+| [1756-minimum-deletions-to-make-string-balanced](https://github.com/garvitagr/Leetcode/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/garvitagr/Leetcode/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/garvitagr/Leetcode/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/garvitagr/Leetcode/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
@@ -405,6 +407,7 @@
 | [0735-asteroid-collision](https://github.com/garvitagr/Leetcode/tree/master/0735-asteroid-collision) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/garvitagr/Leetcode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1720-crawler-log-folder](https://github.com/garvitagr/Leetcode/tree/master/1720-crawler-log-folder) |
+| [1756-minimum-deletions-to-make-string-balanced](https://github.com/garvitagr/Leetcode/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/garvitagr/Leetcode/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2846-robot-collisions](https://github.com/garvitagr/Leetcode/tree/master/2846-robot-collisions) |
 ## Bit Manipulation
