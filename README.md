@@ -264,6 +264,7 @@
 | [1960-check-if-the-sentence-is-pangram](https://github.com/garvitagr/Leetcode/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/garvitagr/Leetcode/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2502-sort-the-people](https://github.com/garvitagr/Leetcode/tree/master/2502-sort-the-people) |
+| [3266-find-longest-special-substring-that-occurs-thrice-ii](https://github.com/garvitagr/Leetcode/tree/master/3266-find-longest-special-substring-that-occurs-thrice-ii) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/garvitagr/Leetcode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/garvitagr/Leetcode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 ## Binary Search
@@ -273,6 +274,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/garvitagr/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1087-longest-arithmetic-subsequence](https://github.com/garvitagr/Leetcode/tree/master/1087-longest-arithmetic-subsequence) |
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/garvitagr/Leetcode/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
+| [3266-find-longest-special-substring-that-occurs-thrice-ii](https://github.com/garvitagr/Leetcode/tree/master/3266-find-longest-special-substring-that-occurs-thrice-ii) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/garvitagr/Leetcode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3436-find-subarray-with-bitwise-or-closest-to-k](https://github.com/garvitagr/Leetcode/tree/master/3436-find-subarray-with-bitwise-or-closest-to-k) |
 | [3466-number-of-subarrays-with-and-value-of-k](https://github.com/garvitagr/Leetcode/tree/master/3466-number-of-subarrays-with-and-value-of-k) |
@@ -371,6 +373,7 @@
 | [2286-minimum-time-to-remove-all-cars-containing-illegal-goods](https://github.com/garvitagr/Leetcode/tree/master/2286-minimum-time-to-remove-all-cars-containing-illegal-goods) |
 | [2502-sort-the-people](https://github.com/garvitagr/Leetcode/tree/master/2502-sort-the-people) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/garvitagr/Leetcode/tree/master/3235-minimum-cost-to-convert-string-i) |
+| [3266-find-longest-special-substring-that-occurs-thrice-ii](https://github.com/garvitagr/Leetcode/tree/master/3266-find-longest-special-substring-that-occurs-thrice-ii) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/garvitagr/Leetcode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/garvitagr/Leetcode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3482-construct-string-with-minimum-cost](https://github.com/garvitagr/Leetcode/tree/master/3482-construct-string-with-minimum-cost) |
@@ -480,6 +483,7 @@
 | [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/garvitagr/Leetcode/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/garvitagr/Leetcode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [2868-continuous-subarrays](https://github.com/garvitagr/Leetcode/tree/master/2868-continuous-subarrays) |
+| [3266-find-longest-special-substring-that-occurs-thrice-ii](https://github.com/garvitagr/Leetcode/tree/master/3266-find-longest-special-substring-that-occurs-thrice-ii) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/garvitagr/Leetcode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 ## Tree
 |  |
@@ -547,6 +551,7 @@
 |  |
 | ------- |
 | [0948-sort-an-array](https://github.com/garvitagr/Leetcode/tree/master/0948-sort-an-array) |
+| [3266-find-longest-special-substring-that-occurs-thrice-ii](https://github.com/garvitagr/Leetcode/tree/master/3266-find-longest-special-substring-that-occurs-thrice-ii) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/garvitagr/Leetcode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 ## Shortest Path
 |  |
