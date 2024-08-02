@@ -497,6 +497,7 @@
 ## Tree
 |  |
 | ------- |
+| [0450-delete-node-in-a-bst](https://github.com/garvitagr/Leetcode/tree/master/0450-delete-node-in-a-bst) |
 | [0538-convert-bst-to-greater-tree](https://github.com/garvitagr/Leetcode/tree/master/0538-convert-bst-to-greater-tree) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/garvitagr/Leetcode/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 | [1207-delete-nodes-and-return-forest](https://github.com/garvitagr/Leetcode/tree/master/1207-delete-nodes-and-return-forest) |
@@ -507,6 +508,7 @@
 ## Binary Tree
 |  |
 | ------- |
+| [0450-delete-node-in-a-bst](https://github.com/garvitagr/Leetcode/tree/master/0450-delete-node-in-a-bst) |
 | [0538-convert-bst-to-greater-tree](https://github.com/garvitagr/Leetcode/tree/master/0538-convert-bst-to-greater-tree) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/garvitagr/Leetcode/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 | [1207-delete-nodes-and-return-forest](https://github.com/garvitagr/Leetcode/tree/master/1207-delete-nodes-and-return-forest) |
@@ -525,6 +527,7 @@
 ## Binary Search Tree
 |  |
 | ------- |
+| [0450-delete-node-in-a-bst](https://github.com/garvitagr/Leetcode/tree/master/0450-delete-node-in-a-bst) |
 | [0538-convert-bst-to-greater-tree](https://github.com/garvitagr/Leetcode/tree/master/0538-convert-bst-to-greater-tree) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/garvitagr/Leetcode/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 | [1285-balance-a-binary-search-tree](https://github.com/garvitagr/Leetcode/tree/master/1285-balance-a-binary-search-tree) |
