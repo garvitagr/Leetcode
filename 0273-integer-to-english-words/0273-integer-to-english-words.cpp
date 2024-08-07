@@ -19,7 +19,6 @@ public:
         return "";
     }
 
-
     string numberToWords(int num) {
         vector<pair<int,string>>v;
         v.push_back(make_pair(1000000000,"Billion"));
