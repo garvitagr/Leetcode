@@ -193,6 +193,7 @@
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/garvitagr/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/garvitagr/Leetcode/tree/master/0239-sliding-window-maximum) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/garvitagr/Leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0948-sort-an-array](https://github.com/garvitagr/Leetcode/tree/master/0948-sort-an-array) |
 | [2379-maximum-total-importance-of-roads](https://github.com/garvitagr/Leetcode/tree/master/2379-maximum-total-importance-of-roads) |
 | [2868-continuous-subarrays](https://github.com/garvitagr/Leetcode/tree/master/2868-continuous-subarrays) |
@@ -435,6 +436,7 @@
 |  |
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/garvitagr/Leetcode/tree/master/0208-implement-trie-prefix-tree) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/garvitagr/Leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Suffix Array
 |  |
 | ------- |
@@ -534,6 +536,7 @@
 | ------- |
 | [0450-delete-node-in-a-bst](https://github.com/garvitagr/Leetcode/tree/master/0450-delete-node-in-a-bst) |
 | [0538-convert-bst-to-greater-tree](https://github.com/garvitagr/Leetcode/tree/master/0538-convert-bst-to-greater-tree) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/garvitagr/Leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/garvitagr/Leetcode/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 | [1207-delete-nodes-and-return-forest](https://github.com/garvitagr/Leetcode/tree/master/1207-delete-nodes-and-return-forest) |
 | [1285-balance-a-binary-search-tree](https://github.com/garvitagr/Leetcode/tree/master/1285-balance-a-binary-search-tree) |
@@ -545,6 +548,7 @@
 | ------- |
 | [0450-delete-node-in-a-bst](https://github.com/garvitagr/Leetcode/tree/master/0450-delete-node-in-a-bst) |
 | [0538-convert-bst-to-greater-tree](https://github.com/garvitagr/Leetcode/tree/master/0538-convert-bst-to-greater-tree) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/garvitagr/Leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/garvitagr/Leetcode/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 | [1207-delete-nodes-and-return-forest](https://github.com/garvitagr/Leetcode/tree/master/1207-delete-nodes-and-return-forest) |
 | [1285-balance-a-binary-search-tree](https://github.com/garvitagr/Leetcode/tree/master/1285-balance-a-binary-search-tree) |
@@ -565,6 +569,7 @@
 | ------- |
 | [0450-delete-node-in-a-bst](https://github.com/garvitagr/Leetcode/tree/master/0450-delete-node-in-a-bst) |
 | [0538-convert-bst-to-greater-tree](https://github.com/garvitagr/Leetcode/tree/master/0538-convert-bst-to-greater-tree) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/garvitagr/Leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/garvitagr/Leetcode/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 | [1285-balance-a-binary-search-tree](https://github.com/garvitagr/Leetcode/tree/master/1285-balance-a-binary-search-tree) |
 ## Merge Sort
@@ -614,4 +619,8 @@
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/garvitagr/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+## Data Stream
+|  |
+| ------- |
+| [0789-kth-largest-element-in-a-stream](https://github.com/garvitagr/Leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
 <!---LeetCode Topics End-->
