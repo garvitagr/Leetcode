@@ -251,6 +251,7 @@
 | [1881-closest-subsequence-sum](https://github.com/garvitagr/Leetcode/tree/master/1881-closest-subsequence-sum) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/garvitagr/Leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2022-maximum-alternating-subsequence-sum](https://github.com/garvitagr/Leetcode/tree/master/2022-maximum-alternating-subsequence-sum) |
+| [2067-maximum-number-of-points-with-cost](https://github.com/garvitagr/Leetcode/tree/master/2067-maximum-number-of-points-with-cost) |
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/garvitagr/Leetcode/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/garvitagr/Leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/garvitagr/Leetcode/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
@@ -329,6 +330,7 @@
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/garvitagr/Leetcode/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [1881-closest-subsequence-sum](https://github.com/garvitagr/Leetcode/tree/master/1881-closest-subsequence-sum) |
 | [2022-maximum-alternating-subsequence-sum](https://github.com/garvitagr/Leetcode/tree/master/2022-maximum-alternating-subsequence-sum) |
+| [2067-maximum-number-of-points-with-cost](https://github.com/garvitagr/Leetcode/tree/master/2067-maximum-number-of-points-with-cost) |
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/garvitagr/Leetcode/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2286-minimum-time-to-remove-all-cars-containing-illegal-goods](https://github.com/garvitagr/Leetcode/tree/master/2286-minimum-time-to-remove-all-cars-containing-illegal-goods) |
 | [3406-find-all-possible-stable-binary-arrays-i](https://github.com/garvitagr/Leetcode/tree/master/3406-find-all-possible-stable-binary-arrays-i) |
