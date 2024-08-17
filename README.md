@@ -231,6 +231,7 @@
 | [1019-squares-of-a-sorted-array](https://github.com/garvitagr/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/garvitagr/Leetcode/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
 | [1062-partition-array-into-three-parts-with-equal-sum](https://github.com/garvitagr/Leetcode/tree/master/1062-partition-array-into-three-parts-with-equal-sum) |
+| [1063-best-sightseeing-pair](https://github.com/garvitagr/Leetcode/tree/master/1063-best-sightseeing-pair) |
 | [1087-longest-arithmetic-subsequence](https://github.com/garvitagr/Leetcode/tree/master/1087-longest-arithmetic-subsequence) |
 | [1145-number-of-submatrices-that-sum-to-target](https://github.com/garvitagr/Leetcode/tree/master/1145-number-of-submatrices-that-sum-to-target) |
 | [1196-filling-bookcase-shelves](https://github.com/garvitagr/Leetcode/tree/master/1196-filling-bookcase-shelves) |
@@ -319,6 +320,7 @@
 | [0140-word-break-ii](https://github.com/garvitagr/Leetcode/tree/master/0140-word-break-ii) |
 | [0152-maximum-product-subarray](https://github.com/garvitagr/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0629-k-inverse-pairs-array](https://github.com/garvitagr/Leetcode/tree/master/0629-k-inverse-pairs-array) |
+| [1063-best-sightseeing-pair](https://github.com/garvitagr/Leetcode/tree/master/1063-best-sightseeing-pair) |
 | [1087-longest-arithmetic-subsequence](https://github.com/garvitagr/Leetcode/tree/master/1087-longest-arithmetic-subsequence) |
 | [1196-filling-bookcase-shelves](https://github.com/garvitagr/Leetcode/tree/master/1196-filling-bookcase-shelves) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/garvitagr/Leetcode/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
