@@ -1,6 +1,7 @@
 #define ll long long
 class Solution {
 public:
+    // Approach same as codeforces-> N. Number Reduction 
     string removeKdigits(string s, int k) {
         ll i,curpos=0,n=s.size(),dig;
         string ans;
