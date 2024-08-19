@@ -325,6 +325,7 @@
 | [0152-maximum-product-subarray](https://github.com/garvitagr/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0264-ugly-number-ii](https://github.com/garvitagr/Leetcode/tree/master/0264-ugly-number-ii) |
 | [0629-k-inverse-pairs-array](https://github.com/garvitagr/Leetcode/tree/master/0629-k-inverse-pairs-array) |
+| [0650-2-keys-keyboard](https://github.com/garvitagr/Leetcode/tree/master/0650-2-keys-keyboard) |
 | [1063-best-sightseeing-pair](https://github.com/garvitagr/Leetcode/tree/master/1063-best-sightseeing-pair) |
 | [1087-longest-arithmetic-subsequence](https://github.com/garvitagr/Leetcode/tree/master/1087-longest-arithmetic-subsequence) |
 | [1196-filling-bookcase-shelves](https://github.com/garvitagr/Leetcode/tree/master/1196-filling-bookcase-shelves) |
@@ -384,6 +385,7 @@
 | ------- |
 | [0264-ugly-number-ii](https://github.com/garvitagr/Leetcode/tree/master/0264-ugly-number-ii) |
 | [0273-integer-to-english-words](https://github.com/garvitagr/Leetcode/tree/master/0273-integer-to-english-words) |
+| [0650-2-keys-keyboard](https://github.com/garvitagr/Leetcode/tree/master/0650-2-keys-keyboard) |
 | [0668-kth-smallest-number-in-multiplication-table](https://github.com/garvitagr/Leetcode/tree/master/0668-kth-smallest-number-in-multiplication-table) |
 | [0870-magic-squares-in-grid](https://github.com/garvitagr/Leetcode/tree/master/0870-magic-squares-in-grid) |
 | [1642-water-bottles](https://github.com/garvitagr/Leetcode/tree/master/1642-water-bottles) |
