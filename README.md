@@ -238,6 +238,7 @@
 | [1145-number-of-submatrices-that-sum-to-target](https://github.com/garvitagr/Leetcode/tree/master/1145-number-of-submatrices-that-sum-to-target) |
 | [1196-filling-bookcase-shelves](https://github.com/garvitagr/Leetcode/tree/master/1196-filling-bookcase-shelves) |
 | [1207-delete-nodes-and-return-forest](https://github.com/garvitagr/Leetcode/tree/master/1207-delete-nodes-and-return-forest) |
+| [1240-stone-game-ii](https://github.com/garvitagr/Leetcode/tree/master/1240-stone-game-ii) |
 | [1293-three-consecutive-odds](https://github.com/garvitagr/Leetcode/tree/master/1293-three-consecutive-odds) |
 | [1333-sort-the-jumbled-numbers](https://github.com/garvitagr/Leetcode/tree/master/1333-sort-the-jumbled-numbers) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/garvitagr/Leetcode/tree/master/1496-lucky-numbers-in-a-matrix) |
@@ -329,6 +330,7 @@
 | [1063-best-sightseeing-pair](https://github.com/garvitagr/Leetcode/tree/master/1063-best-sightseeing-pair) |
 | [1087-longest-arithmetic-subsequence](https://github.com/garvitagr/Leetcode/tree/master/1087-longest-arithmetic-subsequence) |
 | [1196-filling-bookcase-shelves](https://github.com/garvitagr/Leetcode/tree/master/1196-filling-bookcase-shelves) |
+| [1240-stone-game-ii](https://github.com/garvitagr/Leetcode/tree/master/1240-stone-game-ii) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/garvitagr/Leetcode/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/garvitagr/Leetcode/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1511-count-number-of-teams](https://github.com/garvitagr/Leetcode/tree/master/1511-count-number-of-teams) |
@@ -388,6 +390,7 @@
 | [0650-2-keys-keyboard](https://github.com/garvitagr/Leetcode/tree/master/0650-2-keys-keyboard) |
 | [0668-kth-smallest-number-in-multiplication-table](https://github.com/garvitagr/Leetcode/tree/master/0668-kth-smallest-number-in-multiplication-table) |
 | [0870-magic-squares-in-grid](https://github.com/garvitagr/Leetcode/tree/master/0870-magic-squares-in-grid) |
+| [1240-stone-game-ii](https://github.com/garvitagr/Leetcode/tree/master/1240-stone-game-ii) |
 | [1642-water-bottles](https://github.com/garvitagr/Leetcode/tree/master/1642-water-bottles) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/garvitagr/Leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2546-number-of-subarrays-with-gcd-equal-to-k](https://github.com/garvitagr/Leetcode/tree/master/2546-number-of-subarrays-with-gcd-equal-to-k) |
@@ -501,6 +504,7 @@
 | ------- |
 | [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/garvitagr/Leetcode/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
 | [1145-number-of-submatrices-that-sum-to-target](https://github.com/garvitagr/Leetcode/tree/master/1145-number-of-submatrices-that-sum-to-target) |
+| [1240-stone-game-ii](https://github.com/garvitagr/Leetcode/tree/master/1240-stone-game-ii) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/garvitagr/Leetcode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [3406-find-all-possible-stable-binary-arrays-i](https://github.com/garvitagr/Leetcode/tree/master/3406-find-all-possible-stable-binary-arrays-i) |
 | [3407-find-all-possible-stable-binary-arrays-ii](https://github.com/garvitagr/Leetcode/tree/master/3407-find-all-possible-stable-binary-arrays-ii) |
@@ -652,4 +656,8 @@
 |  |
 | ------- |
 | [0402-remove-k-digits](https://github.com/garvitagr/Leetcode/tree/master/0402-remove-k-digits) |
+## Game Theory
+|  |
+| ------- |
+| [1240-stone-game-ii](https://github.com/garvitagr/Leetcode/tree/master/1240-stone-game-ii) |
 <!---LeetCode Topics End-->
