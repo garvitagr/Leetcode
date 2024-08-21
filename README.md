@@ -327,6 +327,7 @@
 | [0264-ugly-number-ii](https://github.com/garvitagr/Leetcode/tree/master/0264-ugly-number-ii) |
 | [0629-k-inverse-pairs-array](https://github.com/garvitagr/Leetcode/tree/master/0629-k-inverse-pairs-array) |
 | [0650-2-keys-keyboard](https://github.com/garvitagr/Leetcode/tree/master/0650-2-keys-keyboard) |
+| [0664-strange-printer](https://github.com/garvitagr/Leetcode/tree/master/0664-strange-printer) |
 | [1063-best-sightseeing-pair](https://github.com/garvitagr/Leetcode/tree/master/1063-best-sightseeing-pair) |
 | [1087-longest-arithmetic-subsequence](https://github.com/garvitagr/Leetcode/tree/master/1087-longest-arithmetic-subsequence) |
 | [1196-filling-bookcase-shelves](https://github.com/garvitagr/Leetcode/tree/master/1196-filling-bookcase-shelves) |
@@ -418,6 +419,7 @@
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/garvitagr/Leetcode/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0402-remove-k-digits](https://github.com/garvitagr/Leetcode/tree/master/0402-remove-k-digits) |
 | [0648-replace-words](https://github.com/garvitagr/Leetcode/tree/master/0648-replace-words) |
+| [0664-strange-printer](https://github.com/garvitagr/Leetcode/tree/master/0664-strange-printer) |
 | [0721-accounts-merge](https://github.com/garvitagr/Leetcode/tree/master/0721-accounts-merge) |
 | [0726-number-of-atoms](https://github.com/garvitagr/Leetcode/tree/master/0726-number-of-atoms) |
 | [0753-open-the-lock](https://github.com/garvitagr/Leetcode/tree/master/0753-open-the-lock) |
