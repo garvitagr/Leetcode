@@ -479,6 +479,7 @@
 | [0402-remove-k-digits](https://github.com/garvitagr/Leetcode/tree/master/0402-remove-k-digits) |
 | [0726-number-of-atoms](https://github.com/garvitagr/Leetcode/tree/master/0726-number-of-atoms) |
 | [0735-asteroid-collision](https://github.com/garvitagr/Leetcode/tree/master/0735-asteroid-collision) |
+| [0776-n-ary-tree-postorder-traversal](https://github.com/garvitagr/Leetcode/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/garvitagr/Leetcode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1720-crawler-log-folder](https://github.com/garvitagr/Leetcode/tree/master/1720-crawler-log-folder) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/garvitagr/Leetcode/tree/master/1756-minimum-deletions-to-make-string-balanced) |
@@ -531,6 +532,7 @@
 | [0310-minimum-height-trees](https://github.com/garvitagr/Leetcode/tree/master/0310-minimum-height-trees) |
 | [0538-convert-bst-to-greater-tree](https://github.com/garvitagr/Leetcode/tree/master/0538-convert-bst-to-greater-tree) |
 | [0721-accounts-merge](https://github.com/garvitagr/Leetcode/tree/master/0721-accounts-merge) |
+| [0776-n-ary-tree-postorder-traversal](https://github.com/garvitagr/Leetcode/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0999-regions-cut-by-slashes](https://github.com/garvitagr/Leetcode/tree/master/0999-regions-cut-by-slashes) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/garvitagr/Leetcode/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 | [1207-delete-nodes-and-return-forest](https://github.com/garvitagr/Leetcode/tree/master/1207-delete-nodes-and-return-forest) |
@@ -572,6 +574,7 @@
 | ------- |
 | [0450-delete-node-in-a-bst](https://github.com/garvitagr/Leetcode/tree/master/0450-delete-node-in-a-bst) |
 | [0538-convert-bst-to-greater-tree](https://github.com/garvitagr/Leetcode/tree/master/0538-convert-bst-to-greater-tree) |
+| [0776-n-ary-tree-postorder-traversal](https://github.com/garvitagr/Leetcode/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/garvitagr/Leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/garvitagr/Leetcode/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 | [1207-delete-nodes-and-return-forest](https://github.com/garvitagr/Leetcode/tree/master/1207-delete-nodes-and-return-forest) |
