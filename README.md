@@ -236,6 +236,7 @@
 | [0729-my-calendar-i](https://github.com/garvitagr/Leetcode/tree/master/0729-my-calendar-i) |
 | [0735-asteroid-collision](https://github.com/garvitagr/Leetcode/tree/master/0735-asteroid-collision) |
 | [0753-open-the-lock](https://github.com/garvitagr/Leetcode/tree/master/0753-open-the-lock) |
+| [0859-design-circular-deque](https://github.com/garvitagr/Leetcode/tree/master/0859-design-circular-deque) |
 | [0870-magic-squares-in-grid](https://github.com/garvitagr/Leetcode/tree/master/0870-magic-squares-in-grid) |
 | [0890-lemonade-change](https://github.com/garvitagr/Leetcode/tree/master/0890-lemonade-change) |
 | [0906-walking-robot-simulation](https://github.com/garvitagr/Leetcode/tree/master/0906-walking-robot-simulation) |
@@ -405,6 +406,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0859-design-circular-deque](https://github.com/garvitagr/Leetcode/tree/master/0859-design-circular-deque) |
 | [1484-linked-list-in-binary-tree](https://github.com/garvitagr/Leetcode/tree/master/1484-linked-list-in-binary-tree) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/garvitagr/Leetcode/tree/master/2299-merge-nodes-in-between-zeros) |
 | [2411-spiral-matrix-iv](https://github.com/garvitagr/Leetcode/tree/master/2411-spiral-matrix-iv) |
@@ -453,6 +455,7 @@
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/garvitagr/Leetcode/tree/master/0239-sliding-window-maximum) |
+| [0859-design-circular-deque](https://github.com/garvitagr/Leetcode/tree/master/0859-design-circular-deque) |
 | [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/garvitagr/Leetcode/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/garvitagr/Leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2868-continuous-subarrays](https://github.com/garvitagr/Leetcode/tree/master/2868-continuous-subarrays) |
@@ -526,6 +529,7 @@
 | [0208-implement-trie-prefix-tree](https://github.com/garvitagr/Leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0729-my-calendar-i](https://github.com/garvitagr/Leetcode/tree/master/0729-my-calendar-i) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/garvitagr/Leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
+| [0859-design-circular-deque](https://github.com/garvitagr/Leetcode/tree/master/0859-design-circular-deque) |
 ## Suffix Array
 |  |
 | ------- |
