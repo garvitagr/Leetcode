@@ -273,6 +273,7 @@
 | [1741-sort-array-by-increasing-frequency](https://github.com/garvitagr/Leetcode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/garvitagr/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1881-closest-subsequence-sum](https://github.com/garvitagr/Leetcode/tree/master/1881-closest-subsequence-sum) |
+| [1923-sentence-similarity-iii](https://github.com/garvitagr/Leetcode/tree/master/1923-sentence-similarity-iii) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/garvitagr/Leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2022-maximum-alternating-subsequence-sum](https://github.com/garvitagr/Leetcode/tree/master/2022-maximum-alternating-subsequence-sum) |
 | [2035-count-sub-islands](https://github.com/garvitagr/Leetcode/tree/master/2035-count-sub-islands) |
@@ -399,6 +400,7 @@
 | [1019-squares-of-a-sorted-array](https://github.com/garvitagr/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/garvitagr/Leetcode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1881-closest-subsequence-sum](https://github.com/garvitagr/Leetcode/tree/master/1881-closest-subsequence-sum) |
+| [1923-sentence-similarity-iii](https://github.com/garvitagr/Leetcode/tree/master/1923-sentence-similarity-iii) |
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/garvitagr/Leetcode/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/garvitagr/Leetcode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 ## Binary Indexed Tree
@@ -499,6 +501,7 @@
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/garvitagr/Leetcode/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/garvitagr/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/garvitagr/Leetcode/tree/master/1818-maximum-score-from-removing-substrings) |
+| [1923-sentence-similarity-iii](https://github.com/garvitagr/Leetcode/tree/master/1923-sentence-similarity-iii) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/garvitagr/Leetcode/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/garvitagr/Leetcode/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/garvitagr/Leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
