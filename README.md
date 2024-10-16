@@ -159,6 +159,7 @@
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/garvitagr/Leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1062-partition-array-into-three-parts-with-equal-sum](https://github.com/garvitagr/Leetcode/tree/master/1062-partition-array-into-three-parts-with-equal-sum) |
 | [1285-balance-a-binary-search-tree](https://github.com/garvitagr/Leetcode/tree/master/1285-balance-a-binary-search-tree) |
+| [1304-longest-happy-string](https://github.com/garvitagr/Leetcode/tree/master/1304-longest-happy-string) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/garvitagr/Leetcode/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/garvitagr/Leetcode/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/garvitagr/Leetcode/tree/master/1818-maximum-score-from-removing-substrings) |
@@ -213,6 +214,7 @@
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/garvitagr/Leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/garvitagr/Leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0948-sort-an-array](https://github.com/garvitagr/Leetcode/tree/master/0948-sort-an-array) |
+| [1304-longest-happy-string](https://github.com/garvitagr/Leetcode/tree/master/1304-longest-happy-string) |
 | [1325-path-with-maximum-probability](https://github.com/garvitagr/Leetcode/tree/master/1325-path-with-maximum-probability) |
 | [2379-maximum-total-importance-of-roads](https://github.com/garvitagr/Leetcode/tree/master/2379-maximum-total-importance-of-roads) |
 | [2868-continuous-subarrays](https://github.com/garvitagr/Leetcode/tree/master/2868-continuous-subarrays) |
@@ -505,6 +507,7 @@
 | [0753-open-the-lock](https://github.com/garvitagr/Leetcode/tree/master/0753-open-the-lock) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/garvitagr/Leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/garvitagr/Leetcode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
+| [1304-longest-happy-string](https://github.com/garvitagr/Leetcode/tree/master/1304-longest-happy-string) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/garvitagr/Leetcode/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/garvitagr/Leetcode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1720-crawler-log-folder](https://github.com/garvitagr/Leetcode/tree/master/1720-crawler-log-folder) |
