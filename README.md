@@ -508,6 +508,7 @@
 | [0721-accounts-merge](https://github.com/garvitagr/Leetcode/tree/master/0721-accounts-merge) |
 | [0726-number-of-atoms](https://github.com/garvitagr/Leetcode/tree/master/0726-number-of-atoms) |
 | [0753-open-the-lock](https://github.com/garvitagr/Leetcode/tree/master/0753-open-the-lock) |
+| [0812-rotate-string](https://github.com/garvitagr/Leetcode/tree/master/0812-rotate-string) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/garvitagr/Leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/garvitagr/Leetcode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1304-longest-happy-string](https://github.com/garvitagr/Leetcode/tree/master/1304-longest-happy-string) |
@@ -813,6 +814,7 @@
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/garvitagr/Leetcode/tree/master/0214-shortest-palindrome) |
+| [0812-rotate-string](https://github.com/garvitagr/Leetcode/tree/master/0812-rotate-string) |
 ## Hash Function
 |  |
 | ------- |
