@@ -219,6 +219,7 @@
 | [1325-path-with-maximum-probability](https://github.com/garvitagr/Leetcode/tree/master/1325-path-with-maximum-probability) |
 | [2379-maximum-total-importance-of-roads](https://github.com/garvitagr/Leetcode/tree/master/2379-maximum-total-importance-of-roads) |
 | [2868-continuous-subarrays](https://github.com/garvitagr/Leetcode/tree/master/2868-continuous-subarrays) |
+| [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/garvitagr/Leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Array
 |  |
 | ------- |
@@ -313,6 +314,7 @@
 | [3466-number-of-subarrays-with-and-value-of-k](https://github.com/garvitagr/Leetcode/tree/master/3466-number-of-subarrays-with-and-value-of-k) |
 | [3482-construct-string-with-minimum-cost](https://github.com/garvitagr/Leetcode/tree/master/3482-construct-string-with-minimum-cost) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/garvitagr/Leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
+| [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/garvitagr/Leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -455,6 +457,7 @@
 | [2645-pass-the-pillow](https://github.com/garvitagr/Leetcode/tree/master/2645-pass-the-pillow) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/garvitagr/Leetcode/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [2846-robot-collisions](https://github.com/garvitagr/Leetcode/tree/master/2846-robot-collisions) |
+| [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/garvitagr/Leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Math
 |  |
 | ------- |
@@ -474,6 +477,7 @@
 | [2546-number-of-subarrays-with-gcd-equal-to-k](https://github.com/garvitagr/Leetcode/tree/master/2546-number-of-subarrays-with-gcd-equal-to-k) |
 | [2645-pass-the-pillow](https://github.com/garvitagr/Leetcode/tree/master/2645-pass-the-pillow) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/garvitagr/Leetcode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
+| [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/garvitagr/Leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Recursion
 |  |
 | ------- |
