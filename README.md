@@ -226,6 +226,7 @@
 | [0001-two-sum](https://github.com/garvitagr/Leetcode/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/garvitagr/Leetcode/tree/master/0015-3sum) |
 | [0040-combination-sum-ii](https://github.com/garvitagr/Leetcode/tree/master/0040-combination-sum-ii) |
+| [0041-first-missing-positive](https://github.com/garvitagr/Leetcode/tree/master/0041-first-missing-positive) |
 | [0053-maximum-subarray](https://github.com/garvitagr/Leetcode/tree/master/0053-maximum-subarray) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/garvitagr/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0139-word-break](https://github.com/garvitagr/Leetcode/tree/master/0139-word-break) |
@@ -319,6 +320,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/garvitagr/Leetcode/tree/master/0001-two-sum) |
+| [0041-first-missing-positive](https://github.com/garvitagr/Leetcode/tree/master/0041-first-missing-positive) |
 | [0139-word-break](https://github.com/garvitagr/Leetcode/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/garvitagr/Leetcode/tree/master/0140-word-break-ii) |
 | [0208-implement-trie-prefix-tree](https://github.com/garvitagr/Leetcode/tree/master/0208-implement-trie-prefix-tree) |
