@@ -229,6 +229,7 @@
 | [0040-combination-sum-ii](https://github.com/garvitagr/Leetcode/tree/master/0040-combination-sum-ii) |
 | [0041-first-missing-positive](https://github.com/garvitagr/Leetcode/tree/master/0041-first-missing-positive) |
 | [0053-maximum-subarray](https://github.com/garvitagr/Leetcode/tree/master/0053-maximum-subarray) |
+| [0079-word-search](https://github.com/garvitagr/Leetcode/tree/master/0079-word-search) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/garvitagr/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0139-word-break](https://github.com/garvitagr/Leetcode/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/garvitagr/Leetcode/tree/master/0140-word-break-ii) |
@@ -499,6 +500,7 @@
 ## String
 |  |
 | ------- |
+| [0079-word-search](https://github.com/garvitagr/Leetcode/tree/master/0079-word-search) |
 | [0139-word-break](https://github.com/garvitagr/Leetcode/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/garvitagr/Leetcode/tree/master/0140-word-break-ii) |
 | [0179-largest-number](https://github.com/garvitagr/Leetcode/tree/master/0179-largest-number) |
@@ -552,6 +554,7 @@
 |  |
 | ------- |
 | [0040-combination-sum-ii](https://github.com/garvitagr/Leetcode/tree/master/0040-combination-sum-ii) |
+| [0079-word-search](https://github.com/garvitagr/Leetcode/tree/master/0079-word-search) |
 | [0140-word-break-ii](https://github.com/garvitagr/Leetcode/tree/master/0140-word-break-ii) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/garvitagr/Leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 ## Trie
@@ -624,6 +627,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0079-word-search](https://github.com/garvitagr/Leetcode/tree/master/0079-word-search) |
 | [0870-magic-squares-in-grid](https://github.com/garvitagr/Leetcode/tree/master/0870-magic-squares-in-grid) |
 | [0921-spiral-matrix-iii](https://github.com/garvitagr/Leetcode/tree/master/0921-spiral-matrix-iii) |
 | [0999-regions-cut-by-slashes](https://github.com/garvitagr/Leetcode/tree/master/0999-regions-cut-by-slashes) |
@@ -660,6 +664,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/garvitagr/Leetcode/tree/master/0079-word-search) |
 | [0310-minimum-height-trees](https://github.com/garvitagr/Leetcode/tree/master/0310-minimum-height-trees) |
 | [0386-lexicographical-numbers](https://github.com/garvitagr/Leetcode/tree/master/0386-lexicographical-numbers) |
 | [0538-convert-bst-to-greater-tree](https://github.com/garvitagr/Leetcode/tree/master/0538-convert-bst-to-greater-tree) |
