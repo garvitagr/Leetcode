@@ -314,6 +314,7 @@
 | [2868-continuous-subarrays](https://github.com/garvitagr/Leetcode/tree/master/2868-continuous-subarrays) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/garvitagr/Leetcode/tree/master/3235-minimum-cost-to-convert-string-i) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/garvitagr/Leetcode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
+| [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/garvitagr/Leetcode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3436-find-subarray-with-bitwise-or-closest-to-k](https://github.com/garvitagr/Leetcode/tree/master/3436-find-subarray-with-bitwise-or-closest-to-k) |
 | [3438-peaks-in-array](https://github.com/garvitagr/Leetcode/tree/master/3438-peaks-in-array) |
 | [3460-count-the-number-of-inversions](https://github.com/garvitagr/Leetcode/tree/master/3460-count-the-number-of-inversions) |
@@ -363,6 +364,7 @@
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/garvitagr/Leetcode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/garvitagr/Leetcode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/garvitagr/Leetcode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
+| [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/garvitagr/Leetcode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/garvitagr/Leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Binary Search
 |  |
@@ -464,6 +466,7 @@
 | [2645-pass-the-pillow](https://github.com/garvitagr/Leetcode/tree/master/2645-pass-the-pillow) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/garvitagr/Leetcode/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [2846-robot-collisions](https://github.com/garvitagr/Leetcode/tree/master/2846-robot-collisions) |
+| [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/garvitagr/Leetcode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/garvitagr/Leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Math
 |  |
