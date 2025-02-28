@@ -396,6 +396,7 @@
 | [0664-strange-printer](https://github.com/garvitagr/Leetcode/tree/master/0664-strange-printer) |
 | [1063-best-sightseeing-pair](https://github.com/garvitagr/Leetcode/tree/master/1063-best-sightseeing-pair) |
 | [1087-longest-arithmetic-subsequence](https://github.com/garvitagr/Leetcode/tree/master/1087-longest-arithmetic-subsequence) |
+| [1170-shortest-common-supersequence](https://github.com/garvitagr/Leetcode/tree/master/1170-shortest-common-supersequence) |
 | [1196-filling-bookcase-shelves](https://github.com/garvitagr/Leetcode/tree/master/1196-filling-bookcase-shelves) |
 | [1240-stone-game-ii](https://github.com/garvitagr/Leetcode/tree/master/1240-stone-game-ii) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/garvitagr/Leetcode/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
@@ -528,6 +529,7 @@
 | [0753-open-the-lock](https://github.com/garvitagr/Leetcode/tree/master/0753-open-the-lock) |
 | [0812-rotate-string](https://github.com/garvitagr/Leetcode/tree/master/0812-rotate-string) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/garvitagr/Leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [1170-shortest-common-supersequence](https://github.com/garvitagr/Leetcode/tree/master/1170-shortest-common-supersequence) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/garvitagr/Leetcode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1304-longest-happy-string](https://github.com/garvitagr/Leetcode/tree/master/1304-longest-happy-string) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/garvitagr/Leetcode/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
