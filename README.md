@@ -290,6 +290,7 @@
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/garvitagr/Leetcode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1923-sentence-similarity-iii](https://github.com/garvitagr/Leetcode/tree/master/1923-sentence-similarity-iii) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/garvitagr/Leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/garvitagr/Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2022-maximum-alternating-subsequence-sum](https://github.com/garvitagr/Leetcode/tree/master/2022-maximum-alternating-subsequence-sum) |
 | [2035-count-sub-islands](https://github.com/garvitagr/Leetcode/tree/master/2035-count-sub-islands) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/garvitagr/Leetcode/tree/master/2067-maximum-number-of-points-with-cost) |
@@ -488,6 +489,7 @@
 | [1240-stone-game-ii](https://github.com/garvitagr/Leetcode/tree/master/1240-stone-game-ii) |
 | [1642-water-bottles](https://github.com/garvitagr/Leetcode/tree/master/1642-water-bottles) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/garvitagr/Leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/garvitagr/Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2155-find-missing-observations](https://github.com/garvitagr/Leetcode/tree/master/2155-find-missing-observations) |
 | [2546-number-of-subarrays-with-gcd-equal-to-k](https://github.com/garvitagr/Leetcode/tree/master/2546-number-of-subarrays-with-gcd-equal-to-k) |
 | [2645-pass-the-pillow](https://github.com/garvitagr/Leetcode/tree/master/2645-pass-the-pillow) |
@@ -569,6 +571,7 @@
 | [0040-combination-sum-ii](https://github.com/garvitagr/Leetcode/tree/master/0040-combination-sum-ii) |
 | [0079-word-search](https://github.com/garvitagr/Leetcode/tree/master/0079-word-search) |
 | [0140-word-break-ii](https://github.com/garvitagr/Leetcode/tree/master/0140-word-break-ii) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/garvitagr/Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/garvitagr/Leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 ## Trie
 |  |
@@ -628,6 +631,7 @@
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/garvitagr/Leetcode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/garvitagr/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1881-closest-subsequence-sum](https://github.com/garvitagr/Leetcode/tree/master/1881-closest-subsequence-sum) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/garvitagr/Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/garvitagr/Leetcode/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/garvitagr/Leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/garvitagr/Leetcode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
@@ -865,5 +869,10 @@
 ## Enumeration
 |  |
 | ------- |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/garvitagr/Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/garvitagr/Leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+## Combinatorics
+|  |
+| ------- |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/garvitagr/Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 <!---LeetCode Topics End-->
