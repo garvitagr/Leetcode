@@ -314,6 +314,7 @@
 | [2755-extra-characters-in-a-string](https://github.com/garvitagr/Leetcode/tree/master/2755-extra-characters-in-a-string) |
 | [2792-neighboring-bitwise-xor](https://github.com/garvitagr/Leetcode/tree/master/2792-neighboring-bitwise-xor) |
 | [2846-robot-collisions](https://github.com/garvitagr/Leetcode/tree/master/2846-robot-collisions) |
+| [2856-count-complete-subarrays-in-an-array](https://github.com/garvitagr/Leetcode/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2868-continuous-subarrays](https://github.com/garvitagr/Leetcode/tree/master/2868-continuous-subarrays) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/garvitagr/Leetcode/tree/master/3235-minimum-cost-to-convert-string-i) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/garvitagr/Leetcode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
@@ -365,6 +366,7 @@
 | [2502-sort-the-people](https://github.com/garvitagr/Leetcode/tree/master/2502-sort-the-people) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/garvitagr/Leetcode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2755-extra-characters-in-a-string](https://github.com/garvitagr/Leetcode/tree/master/2755-extra-characters-in-a-string) |
+| [2856-count-complete-subarrays-in-an-array](https://github.com/garvitagr/Leetcode/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [3266-find-longest-special-substring-that-occurs-thrice-ii](https://github.com/garvitagr/Leetcode/tree/master/3266-find-longest-special-substring-that-occurs-thrice-ii) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/garvitagr/Leetcode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/garvitagr/Leetcode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
@@ -739,6 +741,7 @@
 | [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/garvitagr/Leetcode/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/garvitagr/Leetcode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/garvitagr/Leetcode/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
+| [2856-count-complete-subarrays-in-an-array](https://github.com/garvitagr/Leetcode/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2868-continuous-subarrays](https://github.com/garvitagr/Leetcode/tree/master/2868-continuous-subarrays) |
 | [3266-find-longest-special-substring-that-occurs-thrice-ii](https://github.com/garvitagr/Leetcode/tree/master/3266-find-longest-special-substring-that-occurs-thrice-ii) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/garvitagr/Leetcode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
