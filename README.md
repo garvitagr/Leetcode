@@ -327,6 +327,7 @@
 | [3482-construct-string-with-minimum-cost](https://github.com/garvitagr/Leetcode/tree/master/3482-construct-string-with-minimum-cost) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/garvitagr/Leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/garvitagr/Leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
+| [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/garvitagr/Leetcode/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
 ## Hash Table
 |  |
 | ------- |
