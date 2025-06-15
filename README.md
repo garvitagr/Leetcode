@@ -161,6 +161,7 @@
 | [1062-partition-array-into-three-parts-with-equal-sum](https://github.com/garvitagr/Leetcode/tree/master/1062-partition-array-into-three-parts-with-equal-sum) |
 | [1285-balance-a-binary-search-tree](https://github.com/garvitagr/Leetcode/tree/master/1285-balance-a-binary-search-tree) |
 | [1304-longest-happy-string](https://github.com/garvitagr/Leetcode/tree/master/1304-longest-happy-string) |
+| [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/garvitagr/Leetcode/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/garvitagr/Leetcode/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/garvitagr/Leetcode/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/garvitagr/Leetcode/tree/master/1818-maximum-score-from-removing-substrings) |
@@ -493,6 +494,7 @@
 | [0670-maximum-swap](https://github.com/garvitagr/Leetcode/tree/master/0670-maximum-swap) |
 | [0870-magic-squares-in-grid](https://github.com/garvitagr/Leetcode/tree/master/0870-magic-squares-in-grid) |
 | [1240-stone-game-ii](https://github.com/garvitagr/Leetcode/tree/master/1240-stone-game-ii) |
+| [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/garvitagr/Leetcode/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [1642-water-bottles](https://github.com/garvitagr/Leetcode/tree/master/1642-water-bottles) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/garvitagr/Leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/garvitagr/Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
