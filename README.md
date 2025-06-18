@@ -168,6 +168,7 @@
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/garvitagr/Leetcode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/garvitagr/Leetcode/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2379-maximum-total-importance-of-roads](https://github.com/garvitagr/Leetcode/tree/master/2379-maximum-total-importance-of-roads) |
+| [3241-divide-array-into-arrays-with-max-difference](https://github.com/garvitagr/Leetcode/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/garvitagr/Leetcode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Graph
 |  |
@@ -207,6 +208,7 @@
 | [2502-sort-the-people](https://github.com/garvitagr/Leetcode/tree/master/2502-sort-the-people) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/garvitagr/Leetcode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2846-robot-collisions](https://github.com/garvitagr/Leetcode/tree/master/2846-robot-collisions) |
+| [3241-divide-array-into-arrays-with-max-difference](https://github.com/garvitagr/Leetcode/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/garvitagr/Leetcode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Heap (Priority Queue)
 |  |
@@ -318,6 +320,7 @@
 | [2856-count-complete-subarrays-in-an-array](https://github.com/garvitagr/Leetcode/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2868-continuous-subarrays](https://github.com/garvitagr/Leetcode/tree/master/2868-continuous-subarrays) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/garvitagr/Leetcode/tree/master/3235-minimum-cost-to-convert-string-i) |
+| [3241-divide-array-into-arrays-with-max-difference](https://github.com/garvitagr/Leetcode/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/garvitagr/Leetcode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/garvitagr/Leetcode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3436-find-subarray-with-bitwise-or-closest-to-k](https://github.com/garvitagr/Leetcode/tree/master/3436-find-subarray-with-bitwise-or-closest-to-k) |
