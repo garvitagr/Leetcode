@@ -489,6 +489,7 @@
 ## Math
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/garvitagr/Leetcode/tree/master/0231-power-of-two) |
 | [0264-ugly-number-ii](https://github.com/garvitagr/Leetcode/tree/master/0264-ugly-number-ii) |
 | [0273-integer-to-english-words](https://github.com/garvitagr/Leetcode/tree/master/0273-integer-to-english-words) |
 | [0539-minimum-time-difference](https://github.com/garvitagr/Leetcode/tree/master/0539-minimum-time-difference) |
@@ -512,6 +513,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/garvitagr/Leetcode/tree/master/0231-power-of-two) |
 | [0273-integer-to-english-words](https://github.com/garvitagr/Leetcode/tree/master/0273-integer-to-english-words) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/garvitagr/Leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2050-count-good-numbers](https://github.com/garvitagr/Leetcode/tree/master/2050-count-good-numbers) |
@@ -640,6 +642,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/garvitagr/Leetcode/tree/master/0231-power-of-two) |
 | [0476-number-complement](https://github.com/garvitagr/Leetcode/tree/master/0476-number-complement) |
 | [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/garvitagr/Leetcode/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
 | [1435-xor-queries-of-a-subarray](https://github.com/garvitagr/Leetcode/tree/master/1435-xor-queries-of-a-subarray) |
