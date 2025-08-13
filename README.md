@@ -492,6 +492,7 @@
 | [0231-power-of-two](https://github.com/garvitagr/Leetcode/tree/master/0231-power-of-two) |
 | [0264-ugly-number-ii](https://github.com/garvitagr/Leetcode/tree/master/0264-ugly-number-ii) |
 | [0273-integer-to-english-words](https://github.com/garvitagr/Leetcode/tree/master/0273-integer-to-english-words) |
+| [0326-power-of-three](https://github.com/garvitagr/Leetcode/tree/master/0326-power-of-three) |
 | [0539-minimum-time-difference](https://github.com/garvitagr/Leetcode/tree/master/0539-minimum-time-difference) |
 | [0564-find-the-closest-palindrome](https://github.com/garvitagr/Leetcode/tree/master/0564-find-the-closest-palindrome) |
 | [0592-fraction-addition-and-subtraction](https://github.com/garvitagr/Leetcode/tree/master/0592-fraction-addition-and-subtraction) |
@@ -515,6 +516,7 @@
 | ------- |
 | [0231-power-of-two](https://github.com/garvitagr/Leetcode/tree/master/0231-power-of-two) |
 | [0273-integer-to-english-words](https://github.com/garvitagr/Leetcode/tree/master/0273-integer-to-english-words) |
+| [0326-power-of-three](https://github.com/garvitagr/Leetcode/tree/master/0326-power-of-three) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/garvitagr/Leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2050-count-good-numbers](https://github.com/garvitagr/Leetcode/tree/master/2050-count-good-numbers) |
 ## Queue
