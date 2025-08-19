@@ -307,6 +307,7 @@
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/garvitagr/Leetcode/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/garvitagr/Leetcode/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2411-spiral-matrix-iv](https://github.com/garvitagr/Leetcode/tree/master/2411-spiral-matrix-iv) |
+| [2432-number-of-zero-filled-subarrays](https://github.com/garvitagr/Leetcode/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2472-build-a-matrix-with-conditions](https://github.com/garvitagr/Leetcode/tree/master/2472-build-a-matrix-with-conditions) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/garvitagr/Leetcode/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2502-sort-the-people](https://github.com/garvitagr/Leetcode/tree/master/2502-sort-the-people) |
@@ -507,6 +508,7 @@
 | [1993-sum-of-all-subset-xor-totals](https://github.com/garvitagr/Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2050-count-good-numbers](https://github.com/garvitagr/Leetcode/tree/master/2050-count-good-numbers) |
 | [2155-find-missing-observations](https://github.com/garvitagr/Leetcode/tree/master/2155-find-missing-observations) |
+| [2432-number-of-zero-filled-subarrays](https://github.com/garvitagr/Leetcode/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2546-number-of-subarrays-with-gcd-equal-to-k](https://github.com/garvitagr/Leetcode/tree/master/2546-number-of-subarrays-with-gcd-equal-to-k) |
 | [2645-pass-the-pillow](https://github.com/garvitagr/Leetcode/tree/master/2645-pass-the-pillow) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/garvitagr/Leetcode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
