@@ -289,6 +289,7 @@
 | [1706-min-cost-to-connect-all-points](https://github.com/garvitagr/Leetcode/tree/master/1706-min-cost-to-connect-all-points) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/garvitagr/Leetcode/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [1720-crawler-log-folder](https://github.com/garvitagr/Leetcode/tree/master/1720-crawler-log-folder) |
+| [1732-find-the-highest-altitude](https://github.com/garvitagr/Leetcode/tree/master/1732-find-the-highest-altitude) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/garvitagr/Leetcode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/garvitagr/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/garvitagr/Leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
@@ -697,6 +698,7 @@
 | [1435-xor-queries-of-a-subarray](https://github.com/garvitagr/Leetcode/tree/master/1435-xor-queries-of-a-subarray) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/garvitagr/Leetcode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/garvitagr/Leetcode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
+| [1732-find-the-highest-altitude](https://github.com/garvitagr/Leetcode/tree/master/1732-find-the-highest-altitude) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/garvitagr/Leetcode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [3406-find-all-possible-stable-binary-arrays-i](https://github.com/garvitagr/Leetcode/tree/master/3406-find-all-possible-stable-binary-arrays-i) |
 | [3407-find-all-possible-stable-binary-arrays-ii](https://github.com/garvitagr/Leetcode/tree/master/3407-find-all-possible-stable-binary-arrays-ii) |
